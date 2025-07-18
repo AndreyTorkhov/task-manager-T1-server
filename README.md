@@ -2,11 +2,15 @@
 
 Серверная часть проекта Task Manager. Реализован REST API для управления задачами с хранением данных в памяти. Написано на TypeScript с использованием Express. Архитектура построена с разделением по слоям (routes/controllers/models/types).
 
+Frontend repo: https://github.com/AndreyTorkhov/task-manager-T1
+
 !Это 2 версия серверной части, репозиторий с 1 версией скрыт на github
 
 ## 🌐 Продакшн
 
-Backend API: https://task-manager-t1-backend.vercel.app
+Frontend: https://task-manager-t1-andreytorkhovs-projects.vercel.app 
+
+Backend API: https://task-manager-t1-server.vercel.app
 
 ## 🧠 Ключевые решения
 
