@@ -8,7 +8,7 @@ Frontend repo: https://github.com/AndreyTorkhov/task-manager-T1
 
 ## 🌐 Продакшн
 
-Frontend: https://task-manager-t1-andreytorkhovs-projects.vercel.app 
+Frontend: https://task-manager-t1-o9bmjbzll-andreytorkhovs-projects.vercel.app
 
 Backend API: https://task-manager-t1-server.vercel.app
 
